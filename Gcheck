@@ -1,0 +1,42 @@
+if game.PlaceId == (2377868063) then --Strucid
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DevHexrey22/games/main/Strucid"))()
+
+if game.PlaceId == (9498006165) then --Tapping Simulator!
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/DevHexrey22/games/main/tapping%20sim"))()
+else
+
+if game.PlaceId == (8737602449) then --pls donate
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/DevHexrey22/games/main/pls%20donate"))()
+else
+
+if game.PlaceId == (3606833500) then --Strucid zone wars
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/DevHexrey22/games/main/Strucid"))()
+else
+
+if game.PlaceId == (6407649031) then --NSA
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/DevHexrey22/games/main/NSA"))()
+else
+
+if game.PlaceId == (10119617028) then --airsoft center
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/DevHexrey22/games/main/AC"))()
+else
+
+if game.PlaceId == (6158075274) then --CALIBER
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/DevHexrey22/games/main/Caliber"))()
+else
+
+if game.PlaceId == (8750997647) then --Tapping legends X
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/offsetvoid/scripts/main/tapping%20legends.lua",true))()
+else
+
+
+
+print("Game not supported by rohub please join the discord to see all supported games")
+end
+end
+end
+end
+end
+end
+end
+end
