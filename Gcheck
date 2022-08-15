@@ -27,12 +27,7 @@ else
 
 if game.PlaceId == (8750997647) then --Tapping legends X
  loadstring(game:HttpGet("https://raw.githubusercontent.com/offsetvoid/scripts/main/tapping%20legends.lua",true))()
-else
-
-
-
-print("Game not supported by rohub please join the discord to see all supported games")
-end
+ end
 end
 end
 end
